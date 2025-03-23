@@ -10,7 +10,3 @@ A simple image watermarking tool built with Python and Tkinter.
 - Adjust watermark size, position, and opacity.
 - User-friendly GUI for easy selection and customization.
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/watermarker.git
